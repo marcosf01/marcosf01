@@ -1,14 +1,15 @@
-## Olá! Eu sou o Marcos!👋
+### Hey there, my name's Marcos Felipe 👋
 
-👨‍💻 Backend Developer Java<br>
+<hr>
 
-##
+- 👨‍💻 I'm a Java Backend Developer
+- 💚 Programming and Design are my passions
+
+<hr>
 
 ![My status](https://github-readme-stats.vercel.app/api?username=marcosf01&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22)
   
-##
 
-</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Rafa-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -18,8 +19,7 @@
   <img align="center" alt="Rafa-Js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-
-##
+<hr>
   
 <div align="center" style="display: inline_block"><br>
   <a href="https://instagram.com/mfelipereis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
