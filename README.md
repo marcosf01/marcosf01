@@ -1,4 +1,4 @@
-## Hey there, my name's Marcos Felipe 👋
+## Hey! My name is Marcos Felipe 👋
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosf01.marcosf01&left_color=blueviolet"  />
