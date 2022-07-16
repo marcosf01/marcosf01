@@ -1,13 +1,22 @@
 ## Hey! My name is Marcos Felipe 👋
 
+<!-- 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosf01.marcosf01&left_color=blueviolet"  />
 </div>
+-->
+
+<br>
 
 - 👨‍💻 I'm a Java Backend Developer
 - 💚 Programming and Design are my passions
+- 🔭 Looking for my first professional opportunity as a developer
+
+<br>
 
 ![My status](https://github-readme-stats.vercel.app/api?username=marcosf01&show_icons=true&show_icons=true&title_color=70A4FC&icon_color=B477FF&text_color=38BDAE&bg_color=161b22)
+
+
 
 ## My stack
 
