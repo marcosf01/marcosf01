@@ -1,12 +1,7 @@
-## Hey! My name is Marcos Felipe 👋
+<h2 align="left">Hey! I'm Marcos Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
 
-<!-- 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcosf01.marcosf01&left_color=blueviolet"  />
-</div>
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosf01&color=yellow" alt="Profile views" /> </p>
 
-<br>
 
 - 👨‍💻 I'm a Java Backend Developer
 - 💚 Programming and Design are my passions
@@ -27,6 +22,7 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ### Databases
