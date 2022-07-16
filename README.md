@@ -35,7 +35,7 @@
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## Talk to me
+## Contact Me
   
 <div align="right" style="display: inline_block"><br>
   <a href="https://instagram.com/mfelipereis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
