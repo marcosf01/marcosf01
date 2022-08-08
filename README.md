@@ -5,7 +5,6 @@
 
 - 👨‍💻 I'm a Java Backend Developer
 - 💚 Programming and Design are my passions
-- 🔭 Looking for my first professional opportunity as a developer
 
 <br>
 
