@@ -2,6 +2,12 @@
 
 👨‍💻 Sou o Marcos Felipe, desenvolvedor Java e Delphi. Além de estar margulhado no mundo do Back-end, tenho começado a nadar no Front-end. 💚 Tecnologia, design e programação são minhas paixões. Pois tudo isso possibilita tirar as ideias do papel e transformá-las em realidade. 🚀
 
+<div align="left" style="display: inline_block"><br>
+<a href="https://instagram.com/mfelipereis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mfsr021@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/marcosfelipe01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>  
+
 
 ### Tecnologias que eu uso:
 
@@ -17,10 +23,7 @@
 
 ## Contact Me
   
-<div align="right" style="display: inline_block"><br>
-  <a href="https://instagram.com/mfelipereis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mfsr021@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/marcosfelipe01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</div>  
 
-![Snake animation](https://github.com/marcosf01/marcosf01/blob/output/github-contribution-grid-snake.svg)
+  
+
+<!--![Snake animation](https://github.com/marcosf01/marcosf01/blob/output/github-contribution-grid-snake.svg)-->
