@@ -1,4 +1,4 @@
-<h2 align="left">Hey! I'm Marcos Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h2>
+<h2 align="left">Hey! I'm Marcos Felipe</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosf01&color=yellow" alt="Profile views" /> </p>
 
@@ -9,6 +9,10 @@
 <br>
 
 ![My status](https://github-readme-stats.vercel.app/api?username=marcosf01&show_icons=true&show_icons=true&title_color=70A4FC&icon_color=B477FF&text_color=38BDAE&bg_color=161b22)
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosf01&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117"/>
+
+
+![My status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosf01&layout=compact&hide_border=true&title_color=7FFFD4&text_color=ff91a4&bg_color=0d1117)
 
 
 
