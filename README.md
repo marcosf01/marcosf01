@@ -19,7 +19,7 @@ Além do meu trabalho como desenvolvedor web, estou mergulhando no mundo mobile 
 ### Minhas redes sociais:
 
 <div align="left" style="display: inline_block"><br>
-<a href="https://instagram.com/felipereiss_01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/marcosfelipe.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mfsr021@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/marcosfelipe01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>  
